@@ -1,2 +1,2 @@
 # microservice-discovery-service
-Capstoneproject-Live demo
+Capstoneproject-Live demo - Automated
